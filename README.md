@@ -6,5 +6,5 @@ A new Flutter project.
 
 This project is designed to chat between two people .
 
-I used Firebase to design this app and other things.
+Among the tools used to create the application is Firebase..
 
