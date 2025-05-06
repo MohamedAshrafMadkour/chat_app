@@ -1,10 +1,24 @@
-# cheat_app
 
-A new Flutter project.
+💬 Chat App
+A real-time chat application built with Flutter, featuring secure authentication, image storage with Firebase Storage, and robust state management using Cubit.
 
-## Getting Started
+🚀 Features
+🔐 User Authentication
+Email & password sign up and login using Firebase Authentication.
 
-This project is designed to chat between two people .
+💾 Firebase Storage
+Users can send images in chat, which are uploaded and retrieved securely from Firebase Storage.
 
-Among the tools used to create the application is Firebase..
+🧠 State Management with Cubit
+
+🛠️ Technologies Used
+Flutter & Dart
+
+Firebase Auth & Firebase Storage
+
+flutter_bloc (Cubit)
+
+Image Picker
+
+Cloud Firestore (for messages)
 
